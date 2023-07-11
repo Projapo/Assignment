@@ -73,9 +73,7 @@ body{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
-
     
-
 .box2{
     width:420px;
     height: 500px;
@@ -88,4 +86,9 @@ body{
     height: 500px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+}
+
+section > ul{
+    display: flex;
+    justify-content:space-around;
 }
