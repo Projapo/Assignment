@@ -112,3 +112,7 @@ section > ul {
     padding: 50px 180px 50px 180px;
 }
 
+
+section > ul > caption{
+    text-align: center;
+}
