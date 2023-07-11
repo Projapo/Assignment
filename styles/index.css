@@ -225,4 +225,11 @@ ul{
     
 }
 
-
+.bot{
+    width: 130px;
+    height: 50px;
+    border-radius: 8px;
+    background: #E55473;
+    border-style: none;
+    color: white;
+}
