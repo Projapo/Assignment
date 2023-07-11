@@ -74,7 +74,6 @@ body{
 }
 
 .box1{
-    color:white
     width:420px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
@@ -82,7 +81,6 @@ body{
 }
     
 .box2{
-    color: white;
     width:420px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
@@ -90,7 +88,6 @@ body{
 }
 
 .box3{
-    color:white
     width:420px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
@@ -99,6 +96,8 @@ body{
 
 section > ul {
     display: flex;
+    padding: 100px 240px 100px 240px;
+    justify-content: space-between;
 }
 .boxes{
     height: 500px;
