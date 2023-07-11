@@ -257,5 +257,11 @@ textarea{
     margin-top: 200px;
     margin-left: 300px;
 }
+/* footer */
+ 
+.tall{
+    height: 400px;
+    background-color: #272727;
+}
 
 
