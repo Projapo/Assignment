@@ -67,6 +67,10 @@ body{
 
 }
 
+.feature{
+    margin-bottom: 50px;
+}
+
 .box1{
     width:420px;
     height: 500px;
