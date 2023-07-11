@@ -234,6 +234,10 @@ ul{
     color: white;
 
 }
+
+button{
+    margin-left: 20px;
+}
 textarea{
     border-style: none;
     width: 500px;
@@ -246,6 +250,9 @@ textarea{
     font-family: Lato;
     font-size: 16px;  
 }
+.back-info{
+    align-items: center;
+}
 
 .tt{
     display: flex;
@@ -253,3 +260,5 @@ textarea{
     margin-top: 200px;
     margin-left: 300px;
 }
+
+
