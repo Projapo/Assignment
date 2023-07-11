@@ -36,7 +36,6 @@ body{
     display: flex;
     align-items: center;
     height:100vh;
-    width: 1900px;
     height: 800px;
     background: rgba(229, 84, 115, 0.10);
 }
@@ -98,7 +97,4 @@ section > ul {
     display: flex;
     padding: 100px 240px 100px 240px;
     justify-content: space-between;
-}
-.boxes{
-    height: 500px;
 }
