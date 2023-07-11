@@ -232,4 +232,24 @@ ul{
     background: #E55473;
     border-style: none;
     color: white;
+
+}
+textarea{
+    border-style: none;
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    color: rgba(39, 39, 39, 0.60);
+    text-align:center;
+    font-family: Lato;
+    font-size: 16px;  
+}
+
+.tt{
+    display: flex;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 300px;
 }
