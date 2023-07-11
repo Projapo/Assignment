@@ -66,12 +66,12 @@ body{
 
 .banner{
     background-color: white;
-    height: 1000px;
+    height: 100px;
 
 }
 
 .feature{
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 
 .box1{
@@ -259,9 +259,5 @@ textarea{
 }
 /* footer */
  
-.tall{
-    height: 400px;
-    background-color: #272727;
-}
 
 
