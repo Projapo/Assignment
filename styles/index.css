@@ -55,15 +55,17 @@ body{
     font-weight: 800;
 }
  /* sextion 2 */
+
 .parag{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
     margin-top: 24px;
 }
+
 .banner{
     background-color: white;
-    height: 3000px;
+    height: 1000px;
 
 }
 
@@ -76,6 +78,10 @@ body{
     height: 500px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+}
+
+.boxes{
+    height: 4562px;
 }
     
 .box2{
@@ -92,7 +98,7 @@ body{
     background: rgba(71, 125, 17, 0.15);
 }
 
-section > ul{
+section > ul {
     display: flex;
-    justify-content:space-around;
+    margin
 }
