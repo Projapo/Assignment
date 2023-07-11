@@ -122,3 +122,10 @@ figcaption{
 
 /* Hot Deal styling*/
 
+.hot{
+    margin-top: 100px;
+    height:600px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
