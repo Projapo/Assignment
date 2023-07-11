@@ -137,6 +137,7 @@ figcaption{
     font-size: 40px;
     font-weight: 800;
     font-family: lato;
+    margin-left: 30px;
 }
 .hot{
     display: flex;
@@ -151,6 +152,20 @@ figcaption{
     text-align: center;
     font-size: 18px;
     margin-top: 24px;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
+}
+
+.btnn{
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color:white;
+    border: none;
+    margin-left: 230px;
+}
+.off{
+    color: #E55473;
+
 }
 
