@@ -74,17 +74,15 @@ body{
 }
 
 .box1{
+    color:white
     width:420px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
-
-.boxes{
-    height: 4562px;
-}
     
 .box2{
+    color: white;
     width:420px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
@@ -92,6 +90,7 @@ body{
 }
 
 .box3{
+    color:white
     width:420px;
     height: 500px;
     border-radius: 300px 300px 0px 0px;
@@ -100,4 +99,7 @@ body{
 
 section > ul {
     display: flex;
+}
+.boxes{
+    height: 500px;
 }
