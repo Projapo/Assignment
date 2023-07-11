@@ -54,7 +54,7 @@ body{
     margin-top: 100px;
     font-weight: 800;
 }
- /* sextion 2 */
+ /* section 2 */
 
 .parag{
     color: rgba(39, 39, 39, 0.60);
@@ -100,5 +100,4 @@ body{
 
 section > ul {
     display: flex;
-    margin
 }
