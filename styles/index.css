@@ -138,6 +138,8 @@ figcaption{
     font-weight: 800;
     font-family: lato;
     margin-left: 30px;
+    text-align: center;
+    margin-top: 50px;
 }
 .hot{
     display: flex;
@@ -304,4 +306,9 @@ button{
     top:180px;
     margin-left: 50px;
 }
+/* Bonus */
+
+
+
+
 
