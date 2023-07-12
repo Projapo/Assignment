@@ -322,6 +322,12 @@ button{
     position: relative;
     top:100px;
 }
+.full{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
 
 .you{
     text-align: center;
@@ -331,6 +337,8 @@ button{
     font-size: 30px;
     color: #E55473;
 }
+
+
 
 
 
