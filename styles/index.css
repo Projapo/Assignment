@@ -342,7 +342,10 @@ button{
     margin-right: 30px;
 }
 
-
+.cap{
+    color: #E55473;
+    text-decoration: overline;
+}
 
 
 
