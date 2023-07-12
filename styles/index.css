@@ -308,6 +308,17 @@ button{
 }
 /* Bonus */
 
+.bonus{
+    margin-top: 120px;
+    height: 500px;
+    background: rgba(229, 84, 115, 0.05);
+}
+ 
+.bon{
+    width: 250px;
+    height: 280px;
+}
+
 
 
 
